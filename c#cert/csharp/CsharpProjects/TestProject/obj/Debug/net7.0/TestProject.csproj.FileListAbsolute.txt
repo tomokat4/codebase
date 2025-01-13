@@ -1,0 +1,28 @@
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/alexanderkilli/Desktop/VS code/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/alexanderkilli/Desktop/csharp/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
